@@ -1,5 +1,6 @@
 # Timetable-Generator
-To setup
+**To setup**
+
 1.Download [SQL jar File for java](https://dev.mysql.com/downloads/connector/j/) and place in dependencies.
 
 2.Create SQL Empty Table in local host 
